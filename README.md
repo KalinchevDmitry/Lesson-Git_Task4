@@ -7,4 +7,4 @@ _Описание проекта NeuroStartUp_:
 
 _Логотип_:
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/KalinchevDmitry/Lesson-Git.git/pic_logo.png)
