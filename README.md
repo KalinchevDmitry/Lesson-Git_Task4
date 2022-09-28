@@ -8,3 +8,4 @@ _Описание проекта NeuroStartUp_:
 _Логотип_:
 
 ![](/pic_logo.png)
+ 
